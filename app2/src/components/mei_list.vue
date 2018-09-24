@@ -14,7 +14,7 @@
   	 				<div class="photo-card" style=" background:#f0f0f0;">
   	 					<a href="javascript:;" class="upload_btn">
   	 						<i class="iconfont">&#xe602;</i>
-  	 						<p>上传图片/文字</p>
+  	 						<p>片/文字</p>
   	 					</a>
   	 				</div>
   	 			</li>
